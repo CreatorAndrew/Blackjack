@@ -1,5 +1,5 @@
 {
-  "homepage": "https://creatorandrew.github.io/Blackjack",
+  "homepage": "./",
   "name": "blackjack-game",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +22,7 @@
     "start": "react-scripts start",
     "predeploy" : "yarn run build",
     "deploy" : "gh-pages -d build",
-    "build": "react-scripts build",
+    "build": "PUBLIC_URL=https://creatorandrew.github.io/Blackjack react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build-electron": "react-scripts build",
