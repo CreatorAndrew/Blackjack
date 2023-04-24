@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Blackjack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a recreation of the card game Blackjack that can run in the browser or on the desktop.
+
+<img width="1026" alt="Blackjack_Screenshot" src="https://user-images.githubusercontent.com/28602923/233881045-c4835a13-586a-4f33-be03-70cc544a778a.png">
 
 ## Available Scripts
 
