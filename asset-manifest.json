@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Blackjack/static/css/main.e9f643a7.css",
-    "main.js": "/Blackjack/static/js/main.987d5f67.js",
-    "static/js/787.cacf667e.chunk.js": "/Blackjack/static/js/787.cacf667e.chunk.js",
-    "static/media/blackjack.ico": "/Blackjack/static/media/blackjack.e8dbafbccafa8fdfeefb.ico",
-    "static/media/blackjack.icns": "/Blackjack/static/media/blackjack.4e0a49697bbdf744d08b.icns",
-    "index.html": "/Blackjack/index.html",
-    "main.e9f643a7.css.map": "/Blackjack/static/css/main.e9f643a7.css.map",
-    "main.987d5f67.js.map": "/Blackjack/static/js/main.987d5f67.js.map",
-    "787.cacf667e.chunk.js.map": "/Blackjack/static/js/787.cacf667e.chunk.js.map"
+    "main.css": "https://creatorandrew.github.io/Blackjack/static/css/main.e9f643a7.css",
+    "main.js": "https://creatorandrew.github.io/Blackjack/static/js/main.f6782db2.js",
+    "static/js/787.cacf667e.chunk.js": "https://creatorandrew.github.io/Blackjack/static/js/787.cacf667e.chunk.js",
+    "static/media/blackjack.ico": "https://creatorandrew.github.io/Blackjack/static/media/blackjack.e8dbafbccafa8fdfeefb.ico",
+    "static/media/blackjack.icns": "https://creatorandrew.github.io/Blackjack/static/media/blackjack.4e0a49697bbdf744d08b.icns",
+    "index.html": "https://creatorandrew.github.io/Blackjack/index.html",
+    "main.e9f643a7.css.map": "https://creatorandrew.github.io/Blackjack/static/css/main.e9f643a7.css.map",
+    "main.f6782db2.js.map": "https://creatorandrew.github.io/Blackjack/static/js/main.f6782db2.js.map",
+    "787.cacf667e.chunk.js.map": "https://creatorandrew.github.io/Blackjack/static/js/787.cacf667e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9f643a7.css",
-    "static/js/main.987d5f67.js"
+    "static/js/main.f6782db2.js"
   ]
 }
