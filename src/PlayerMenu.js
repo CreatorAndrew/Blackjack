@@ -61,7 +61,8 @@ class PlayerMenu extends Component {
 
   renderLog() {
     return <div id="log" className="topBar">
-      {this.state.log.map((logItem) => <span style={{ WebkitTextFillColor: logItem.color }} key={this.log.indexOf(logItem)}>{logItem.message}<br/></span>)}
+      {this.state.log.map((logItem) => <span style={{ WebkitTextFillColor: logItem.color, overflow: "hidden" }} 
+        key={this.log.indexOf(logItem)}>{logItem.message}<br/></span>)}
     </div>
   }
 
