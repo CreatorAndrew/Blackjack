@@ -16,6 +16,14 @@ jobs:
     - uses: actions/checkout@v2
 
     # Run our deployment command
+    - name: access
+      env:
+        MY_EMAIL: andrew.noah.mitchell@gmail.com
+        MY_NAME: CreatorAndrew
+      run: |
+        git config --global user.email $MY_EMAIL
+        git config --global user.name $MY_NAME
+        git remote set-url origin https://$MY_NAME:${{ secrets.GH_SECRET }}@github.com/CreatorAndrew/Blackjack.git
     - name: install
       run: yarn install
     - name: build
