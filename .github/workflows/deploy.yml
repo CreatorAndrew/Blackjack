@@ -17,7 +17,7 @@ jobs:
 
     # Run our deployment command
     - name: install
-      run: yarn add
+      run: yarn install
     - name: build
       run: yarn build
     - name: predeploy
