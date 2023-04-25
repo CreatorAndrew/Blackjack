@@ -1,6 +1,6 @@
 # Blackjack
 
-This project is a simulation of the card game Blackjack that can run in the browser or on the desktop.
+This project is a simulation of the card game Blackjack that can run in the browser or as a standalone desktop application.
 
 <img width="1026" alt="Blackjack_Screenshot" src="https://user-images.githubusercontent.com/28602923/233881045-c4835a13-586a-4f33-be03-70cc544a778a.png">
 
