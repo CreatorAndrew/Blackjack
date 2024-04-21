@@ -1,6 +1,6 @@
 # Blackjack
 
-<p align="center"><img src="https://raw.githubusercontent.com/CreatorAndrew/Blackjack/main/public/favicon.ico" width="400"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CreatorAndrew/Blackjack/main/public/favicon.ico" width="200"/></p>
 
 This project is a simulation of the card game Blackjack that can run in the browser or as a standalone desktop application.
 
